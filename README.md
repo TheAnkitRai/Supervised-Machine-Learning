@@ -1,4 +1,4 @@
-### Prediction of percentage
+## Prediction of percentage
  
 **This project deals with the prediction of percentage of a student based on the number of study hours.
 This project uses supervised machine learning to predict the percentage of the student.**
